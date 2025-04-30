@@ -93,9 +93,9 @@ AutoYaST/SALT Automation	Automated upgrades using scripts	Large-scale deployment
 **Application incompatibility** |	Test in a **non-production environment** first
 **Network service failure**	    | Reapply custom network configs post-upgrade
 ## Conclusion
-Upgrading from **SLES 12 SP5 → 15 SP6** requires:
-✅ **Proper planning (backups, compatibility checks)**
-✅ **Team coordination (SysAdmins, Security, DB, Networking)**
-✅ **Post-upgrade validation (services, security, performance)**
+Upgrading from **SLES 12 SP5 → 15 SP6** requires:    </br>
+✅ **Proper planning (backups, compatibility checks)**  </br>
+✅ **Team coordination (SysAdmins, Security, DB, Networking)**    </br>
+✅ **Post-upgrade validation (services, security, performance)**    </br>
 
 Would you like a **step-by-step upgrade guide** or **troubleshooting tips** for common issues?
