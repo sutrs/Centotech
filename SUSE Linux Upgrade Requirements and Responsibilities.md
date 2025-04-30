@@ -40,10 +40,11 @@ zypper migration	Online upgrade using SUSE repositories	Best for systems with in
 Offline ISO Upgrade	Boot from SLES 15 SP6 ISO and perform upgrade	For air-gapped systems
 AutoYaST/SALT Automation	Automated upgrades using scripts	Large-scale deployments
 
+<!--
 ⚠ Note:
 - **Leapp tool** (used for RHEL upgrades) is **not applicable** for SLES.
 - **In-place upgrade** is supported, but **fresh install is recommended** for critical systems.
-
+-->
 ## 2. Team Responsibilities
 ### A. System Administrators
 ✔ Perform **pre-upgrade checks** (disk space, dependencies, backups)  </br>
