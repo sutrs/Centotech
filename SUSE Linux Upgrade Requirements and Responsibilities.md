@@ -92,6 +92,8 @@ AutoYaST/SALT Automation	Automated upgrades using scripts	Large-scale deployment
 **Package conflicts**           |	Use `zypper dup --no-allow-vendor-change` carefully
 **Application incompatibility** |	Test in a **non-production environment** first
 **Network service failure**	    | Reapply custom network configs post-upgrade
+
+<!--
 ## Conclusion
 Upgrading from **SLES 12 SP5 → 15 SP6** requires:    </br>
 ✅ **Proper planning (backups, compatibility checks)**  </br>
@@ -99,3 +101,4 @@ Upgrading from **SLES 12 SP5 → 15 SP6** requires:    </br>
 ✅ **Post-upgrade validation (services, security, performance)**    </br>
 
 Would you like a **step-by-step upgrade guide** or **troubleshooting tips** for common issues?
+-->
